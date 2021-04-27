@@ -11,8 +11,10 @@ Example :
 
 Once, the dataset created then we have options to download or just copy the data in several formats such as json, csv. 
 
-In case of data copied, it's easy to use the library pandas to read the clipboard and use it for further analysis as shown below.
+In case of data copied, it's easy to use the library pandas to read the clipboard and use it for further analysis as shown below. this data is generated for four classes knows as **a, b, c, and d**
 
+
+![image](https://user-images.githubusercontent.com/30498799/116178499-427e7600-a748-11eb-9ddb-7170eb5531af.png)
 
 
 
