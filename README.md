@@ -20,3 +20,11 @@ In case of data copied, it's easy to use the library pandas to read the clipboar
 
 
 The disadvantage of this library is that can't create more than 2 dimensional dataset
+
+
+**AutoViz :** It performs automatic visualization of any dataset with one line. Give any input file (CSV, txt or json) and AutoViz will visualize it.
+
+Install using "pip install autoviz"
+Import with "from autoviz.AutoViz_Class import AutoViz_Class"
+Instantiate a class "AV = AutoViz_Class()"
+Run an experiment in the following line with our data set:
